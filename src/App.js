@@ -11,7 +11,9 @@ function App() {
                  </p>
   return (
     <div className="App">
-      
+        //select pick meme
+        //inpunt text primera linea
+        //input text segunda linea
     </div>
   );
 }
